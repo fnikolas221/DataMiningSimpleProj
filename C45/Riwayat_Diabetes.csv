@@ -1,0 +1,21 @@
+Berat Badan;Jenis Kelamin;Tekanan Darah;Kadar Gula;Riwayat Diabetes
+Under Weight;LakiLaki;Normal;Tinggi;Tidak Turunan
+Under Weight;Perempuan;Normal;Tinggi;Tidak Turunan
+Average;LakiLaki;Normal;Tinggi;Turunan
+Over Weight;LakiLaki;Tinggi;Tinggi;Tidak Turunan
+Over Weight;LakiLaki;Rendah;Normal;Turunan
+Over Weight;Perempuan;Rendah;Normal;Turunan
+Average;Perempuan;Rendah;Normal;Turunan
+Under Weight;LakiLaki;Tinggi;Tinggi;Tidak Turunan
+Under Weight;LakiLaki;Rendah;Normal;Turunan
+Over Weight;LakiLaki;Tinggi;Normal;Turunan
+Under Weight;Perempuan;Tinggi;Normal;Turunan
+Average;Perempuan;Tinggi;Tinggi;Turunan
+Average;LakiLaki;Normal;Normal;Turunan
+Over Weight;Perempuan;Tinggi;Tinggi;Tidak Turunan
+Under Weight;LakiLaki;Normal;Rendah;Turunan
+Average;LakiLaki;Tinggi;Rendah;Turunan
+Under Weight;Perempuan;Tinggi;Rendah;Turunan
+Over Weight;LakiLaki;Rendah;Tinggi;Turunan
+Average;Perempuan;Normal;Rendah;Turunan
+Over Weight;Perempuan;Rendah;Tinggi;Turunan
